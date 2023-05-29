@@ -1,6 +1,14 @@
+---
+title: Window相关技巧
+date: 2023-05-25 17:34:01
+categories: Wiki
+tags: [Window 10, Window 11, Font]
+comment: true
+---
 
+Windows系统的一些技巧
 
-
+<!--more-->
 
 ## win10 修改系统字体
 

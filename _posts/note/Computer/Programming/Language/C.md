@@ -7,11 +7,11 @@ comment: true
 sticky: 9999
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/code_by_rasmusir-d4a4dj2222.jpg" alt="code_by_rasmusir-d4a4dj2222" style="zoom: 50%;" />
-
 > 📚  Notes and *personal understanding* of the process of learning **C language**, used to find.
 
 <!-- more -->
+
+<img src="https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/code_by_rasmusir-d4a4dj2222.jpg" alt="code_by_rasmusir-d4a4dj2222" style="zoom: 50%;" />
 
 ## Introduction
 

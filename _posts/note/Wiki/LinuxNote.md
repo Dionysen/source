@@ -7,11 +7,11 @@ comment: true
 sticky: 999
 ---
 
-![R-C2](https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/R-C2.png)
-
 > 📚  Some of knowledge encountered in the process of learning Linux.
 
 <!--more-->
+
+![R-C2](https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/R-C2.png)
 
 ## Linux General Issues
 

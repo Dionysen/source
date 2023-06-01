@@ -1,4 +1,5 @@
 ---
+
 title: C Plus Plus - Basic
 date: 2022-05-25 17:34:01
 categories: [Programming, Language]
@@ -7,11 +8,11 @@ comment: true
 sticky: 1000
 ---
 
-![maxresdefault3](https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/maxresdefault3.jpg)
-
 > 📚  Some notes and thinking in learning cpp, for searching.
 
 <!-- more -->
+
+![maxresdefault3](https://cdn.jsdelivr.net/gh/Dionysen/BlogCDN@main/img/maxresdefault3.jpg)
 
 
 

@@ -390,3 +390,9 @@ Execute these commands in deferent tty and you can see immediate results as you 
 ## picgo
 
 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
+
+
+
+## 字体问题
+
+个性化的字体需要自定义字体样式，加载云端字体或本地字体，汉字
